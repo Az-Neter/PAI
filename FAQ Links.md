@@ -1,0 +1,5 @@
+## [Nomenclature / Jargon](https://docs.personal.ai/faqs/faq-nomenclature)  
+
+## [Supported Languages](https://docs.personal.ai/faqs/faq-supported-languages)  
+
+## [Contact Page](https://docs.personal.ai/faqs/faq-contact-us)

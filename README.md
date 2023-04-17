@@ -6,8 +6,8 @@ Whether it's future dinner plans with friends or work meeting recaps, everything
 
 ## This is a community-run repository for all things [Personal.AI](https://personal.ai)
 
-[Links for Public Lounges, Training Documentation, and some additional notes](https://github.com/Az-Neter/PAI/blob/main/Community%20Links.md)
+-[Links for Public Lounges, Training Documentation, and some additional notes](https://github.com/Az-Neter/PAI/blob/main/Community%20Links.md)
   
-[In-Depth Documentation, Theory and Practice](https://github.com/Az-Neter/PAI/blob/main/InDepth%20Links.md)
+-[In-Depth Documentation, Theory and Practice](https://github.com/Az-Neter/PAI/blob/main/InDepth%20Links.md)
   
-[FAQs](https://github.com/Az-Neter/PAI/blob/main/FAQ%20Links.md)
+-[FAQs](https://github.com/Az-Neter/PAI/blob/main/FAQ%20Links.md)

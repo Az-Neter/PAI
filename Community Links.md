@@ -37,6 +37,9 @@ https://humanailabs-personal-ai-issues.personal.ai/
 ### Art, Music & Culture:  
 https://s-art-music-culture.personal.ai/  
 
+### Poetry:  
+http://a-poetry.personal.ai/  
+
 ### Occultism and Esoteric Studies:  
 https://lainrunner20-occult.personal.ai/  
 

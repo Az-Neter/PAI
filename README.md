@@ -10,4 +10,4 @@ Whether it's future dinner plans with friends or work meeting recaps, everything
   
 [In-Depth Documentation, Theory and Practice](https://github.com/Az-Neter/PAI/blob/main/InDepth%20Links.md)
   
-[FAQs]()
+[FAQs](https://github.com/Az-Neter/PAI/blob/main/FAQ%20Links.md)

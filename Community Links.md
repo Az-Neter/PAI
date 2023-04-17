@@ -1,5 +1,8 @@
 # Bug Reports & Feature Requests:
 http://roadmap.personal.ai/ 
+
+## Support Email:  
+support@personal.ai
   
 # Co-Founders:  
 

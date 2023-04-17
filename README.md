@@ -8,4 +8,4 @@ Whether it's future dinner plans with friends or work meeting recaps, everything
 
 [Links for Public Lounges, Training Documentation, and some additional notes](https://github.com/Az-Neter/PAI/blob/main/Community%20Links.md)
   
-[In-Depth Documentation, Theory and Practice]()
+[In-Depth Documentation, Theory and Practice](https://github.com/Az-Neter/PAI/blob/main/InDepth%20Links.md)

@@ -38,7 +38,7 @@ If you want to play a role in assisting, [DM him](http://s.personal.ai/) and he 
 ## Memory Stacking and Training Strategies:  
 https://medium.com/humanailabs/personal-ai-stacking-and-training-strategies-playbook-2-0-ddb4f352f01e  
 
-## Message Prompt Playbook
+## Message Prompt Playbook:
 https://blog.personal.ai/message-prompts-for-your-personal-ai-2-0-798c5186ef1a
 
 ## Document Upload Cheatsheet:  

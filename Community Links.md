@@ -1,13 +1,31 @@
 # Bug Reports & Feature Requests:
 http://roadmap.personal.ai/ 
   
-# Public Lounges:  
+# Co-Founders:  
 
-Suman Kanuganti (CEO of Personal.AI):  
+### Suman Kanuganti  
+(CEO of Personal.AI)  
 http://s.personal.ai/  
 
 Suman's Personal AI Lounge:  
 https://s-suman-autopilot-lounge.personal.ai/  
+
+Suman's Blog:  
+https://medium.com/@sumankanuganti
+
+### Sharon Zhang 
+(CTO of Personal.AI)  
+
+Sharon's Blog:  
+https://medium.com/@xiaoranz1986/  
+
+### Kristie Kaiser  
+(Design & UX)  
+
+Kristie's Blog:  
+https://medium.com/@kristiekaiser
+
+# Public Lounges
 
 ## Issues & Support:  
 https://humanailabs-personal-ai-issues.personal.ai/  
@@ -40,6 +58,9 @@ https://medium.com/humanailabs/personal-ai-stacking-and-training-strategies-play
 
 ## Message Prompt Playbook:
 https://blog.personal.ai/message-prompts-for-your-personal-ai-2-0-798c5186ef1a
+
+### Extra Message Prompt Tips:  
+https://medium.com/@sumankanuganti/tips-for-personal-ai-message-prompts-7f297d522857
 
 ## Document Upload Cheatsheet:  
 https://docs.personal.ai/upload-and-sync/upload-cheatsheet 

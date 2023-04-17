@@ -4,7 +4,8 @@ http://roadmap.personal.ai/
 ## Support Email:  
 support@personal.ai
   
-# Co-Founders:  
+# Co-Founders & Team:  
+https://www.personal.ai/about  
 
 ### Suman Kanuganti  
 (CEO of Personal.AI)  

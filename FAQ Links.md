@@ -1,3 +1,5 @@
+## [Features](https://www.personal.ai/features)
+
 ## [Pricing](https://www.personal.ai/pricing)
 
 ## [Nomenclature / Jargon](https://docs.personal.ai/faqs/faq-nomenclature)  

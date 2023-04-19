@@ -2,7 +2,9 @@
 
 ### [Getting Started Guide](https://docs.personal.ai/fundamentals/getting-started)
 
--[Links for Public Lounges, Training Documentation, and some additional notes](https://github.com/Az-Neter/PAI/blob/main/Community%20Links.md)
+-[Training Documentation & Tips](https://github.com/Az-Neter/PAI/blob/main/Training%20Docs.md)
+
+-[Links for Public Lounges](https://github.com/Az-Neter/PAI/blob/main/Community%20Links.md)
   
 -[In-Depth Documentation, Theory and Practice](https://github.com/Az-Neter/PAI/blob/main/InDepth%20Links.md)
   

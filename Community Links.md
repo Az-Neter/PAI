@@ -41,7 +41,7 @@ https://s-art-music-culture.personal.ai/
 http://a-poetry.personal.ai/  
 
 ### Occultism and Esoteric Studies:  
-https://lainrunner20-occult.personal.ai/  
+Link Down, Replacing Soon  
 
 ### Personality & Strengths-based Discussions:  
 https://dennisking3109-personalities.personal.ai/ 
@@ -54,7 +54,10 @@ http://brandonfrazier-damascus-road.personal.ai/
 
 #### ~Az:Net//My_Personal_Louge 
 Join if you want to be frens :D  
-https://lainrunner20-Az-Net.personal.ai/  
+Link Down, Replacing Soon
+
+#### Phoenix Foundation:  
+http://brandonfrazier-phoenixfoundation.personal.ai/  
 
 # Comprehensive Strategies Documents for you to design your AI;  
 Suman Kanuganti is planning on a "Personal AI University" style of content for developing courses/how-to's, creating a framework so everyday consumers can benefit from simple tutorials rather figuring out what is already known. 

@@ -8,6 +8,11 @@
   
 -[FAQs](https://github.com/Az-Neter/PAI/blob/main/FAQ%20Links.md)
 
+# Bug Reports & Feature Requests:
+http://roadmap.personal.ai/ 
+
+## Support Email:  
+support@personal.ai
 
 # P.AI
 

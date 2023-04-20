@@ -35,7 +35,7 @@ https://s-art-music-culture.personal.ai/
 http://a-poetry.personal.ai/  
 
 ### Occultism and Esoteric Studies:  
-Link Down, Replacing Soon  
+https://0az1-occult.personal.ai/  
 
 ### Personality & Strengths-based Discussions:  
 https://dennisking3109-personalities.personal.ai/ 
@@ -45,10 +45,6 @@ https://fredericloos-tabletop-rpg.personal.ai/
 
 ### Bible & Torah Verses:  
 http://brandonfrazier-damascus-road.personal.ai/ 
-
-#### ~Az:Net//My_Personal_Louge 
-Join if you want to be frens :D  
-Link Down, Replacing Soon
 
 #### Phoenix Foundation:  
 http://brandonfrazier-phoenixfoundation.personal.ai/  

@@ -38,13 +38,16 @@ http://a-poetry.personal.ai/
 https://0az1-occult.personal.ai/  
 
 ### Personality & Strengths-based Discussions:  
-https://dennisking3109-personalities.personal.ai/ 
+https://dennisking3109-personalities.personal.ai/  
 
-### Tabletop RPGs:  
-https://fredericloos-tabletop-rpg.personal.ai/  
+### Ziggy the Super-AI:  
+https://ziggy-Training.personal.ai  
+ 
+### Sourpatches the Philosophy AI:  
+https://sourpatches-Philosophy-Education-Awareness.personal.ai  
 
-### Bible & Torah Verses:  
-http://brandonfrazier-damascus-road.personal.ai/ 
+### Star Wars Lounge:  
+https://a-star-wars.personal.ai  
 
-#### Phoenix Foundation:  
-http://brandonfrazier-phoenixfoundation.personal.ai/  
+### Public News Lounge:  
+https://0az1-news.personal.ai

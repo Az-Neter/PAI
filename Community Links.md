@@ -26,28 +26,31 @@ https://medium.com/@kristiekaiser
 # Public Lounges
 
 ## Issues & Support:  
-https://humanailabs-personal-ai-issues.personal.ai/  
+https://humanailabs-personal-ai-issues.personal.ai/messaging/profile  
 
 ### Art, Music & Culture:  
-https://s-art-music-culture.personal.ai/  
+https://s-art-music-culture.personal.ai/messaging/profile  
 
 ### Poetry:  
-http://a-poetry.personal.ai/  
+http://a-poetry.personal.ai/messaging/profile  
 
 ### Occultism and Esoteric Studies:  
-https://0az1-occult.personal.ai/  
+https://0az1-occult.personal.ai/messaging/profile  
 
 ### Personality & Strengths-based Discussions:  
-https://dennisking3109-personalities.personal.ai/  
+https://dennisking3109-personalities.personal.ai/messaging/profile  
 
 ### Ziggy the Super-AI:  
-https://ziggy-Training.personal.ai  
+https://ziggy-Training.personal.ai/messaging/profile  
  
 ### Sourpatches the Philosophy AI:  
-https://sourpatches-Philosophy-Education-Awareness.personal.ai  
+https://sourpatches-Philosophy-Education-Awareness.personal.ai/messaging/profile  
 
 ### Star Wars Lounge:  
-https://a-star-wars.personal.ai  
+https://a-star-wars.personal.ai/messaging/profile  
 
 ### Public News Lounge:  
-https://0az1-news.personal.ai
+https://0az1-news.personal.ai/messaging/profile
+
+### Bible AI - Paul:  
+https://brandonfrazier-bible.personal.ai/messaging/profile

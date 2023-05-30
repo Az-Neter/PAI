@@ -35,7 +35,7 @@ https://s-art-music-culture.personal.ai/messaging/profile
 http://a-poetry.personal.ai/messaging/profile  
 
 ### Occultism and Esoteric Studies:  
-https://0az1-occult.personal.ai/messaging/profile  
+https://0az1-Occult.personal.ai/messaging/profile  
 
 ### Personality & Strengths-based Discussions:  
 https://dennisking3109-personalities.personal.ai/messaging/profile  
@@ -50,7 +50,7 @@ https://sourpatches-Philosophy-Education-Awareness.personal.ai/messaging/profile
 https://a-star-wars.personal.ai/messaging/profile  
 
 ### Public News Lounge:  
-https://0az1-news.personal.ai/messaging/profile
+https://0az1-News.personal.ai/messaging/profile
 
 ### Bible AI - Paul:  
 https://brandonfrazier-bible.personal.ai/messaging/profile

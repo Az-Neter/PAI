@@ -54,3 +54,6 @@ https://0az1-News.personal.ai/messaging/profile
 
 ### Bible AI - Paul:  
 https://brandonfrazier-bible.personal.ai/messaging/profile
+
+### Robotics Discussions  
+https://0az1-robotics.personal.ai/messaging/profile  

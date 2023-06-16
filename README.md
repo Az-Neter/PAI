@@ -1,5 +1,7 @@
 ## This is a community-run repository for all things [Personal.AI](https://personal.ai)
 
+## [Wiki](https://wiki.personal.ai)
+
 ### [Getting Started Guide](https://docs.personal.ai/fundamentals/getting-started)
 
 -[Training Documentation & Tips](https://github.com/Az-Neter/PAI/blob/main/Training%20Docs.md)
